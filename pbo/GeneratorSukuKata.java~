@@ -1,0 +1,17 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class GeneratorSukuKata {
+  private char[];
+  
+  public GeneratorSukuKata() { 
+    /* YOUR CONSTRUCTOR CODE HERE*/
+  }
+  
+  public static void main(String[] args) { 
+    
+  }
+  
+  /* ADD YOUR CODE HERE */
+  
+}
