@@ -1,6 +1,7 @@
 /**
  * Auto Generated Java Class.
  * Test
+ *test2
  */
 public class AgeOfEmpires {
   
